@@ -1,0 +1,1108 @@
+{
+  "job_offer": {
+    "entreprise": "SFR - Altice France",
+    "ville": "Paris",
+    "poste": "Chef De Projet Développement Big Data & Cloud",
+    "contrat": "alternance",
+    "description_poste": "intitulé du poste entreprise d 39 innovation et 2 opérateur français sfr transforme les usages grâce à un réseau puissant fibre 4g 5g et des expertises de pointe en ia data cloud ou encore cybersécurité sfr accompagne chaque jour près de 27 millions de clients ce qui nous anime c 39 est bien plus qu 39 un plan stratégique c 39 est une transfrmation collective audacieuse et engagée portée par 8 000 collaborateurs qui veulent faire bouger les lignes rejoindre sfr c 39 est contribuer à une mission qui a du sens avec un impact réel et rapide chaque jour est une opportunité de tester proposer transformer toutes nos offres d 39 emploi sont ouvertes aux personnes en situation de handicap rejoignez la direction ingénierie des outils exploitation réseau et accès mobile eram et participez à la transformation cloud d 39 une plateforme big data stratégique encadré e par des experts passionnés vous monterez rapidement en compétence sur des technologies de pointe comme cloudera google cloud platform bigquery bigtable dataflow tableau ou grafana dans le cadre de la migration de nos outils big data actuellement hébergés sur une plateforme on premise vers le cloud google vous contribuerez au développement de solutions permettant la collecte le traitement le stockage et la visualisation de données techniques ces outils sont essentiels pour les équipes réseau ingénierie déploiement exploitation du réseau opérateur afin de piloter la performance des réseaux fixe et mobile via des tableaux de bord des outils cartographiques et des traitements de machine learning cet apprentissage vous permettra d 39 explorer les technologies big data et cloud tout en découvrant les enjeux métiers d 39 un opérateur télécom conception déploiement exploitation du réseau vous serez intégré dans une équipe d 39 ingénieurs expérimentés 1 conception amp étude d 39 un pilote à forte valeur métier pour accélérer la migration vers le cloud vous contribuerez à la création de pilotes innovants permettant d 39 améliorer la détection d 39 incidents et la maîtrise de la performance du réseau vous serez amené e s à comprendre les enjeux clés du métier réseau automatisation qos supervision explorer les architectures cloud les services gcp et les apports de l 39 ia tester et comparer les solutions big data cloud bigquery vs bigtable réaliser des benchmarks performance coût construire une recommandation argumentée développer une maquette fonctionnelle pour démontrer les résultats présenter aux équipes réseau et les accompagner démonstrations formations documentation 2 développement de solutions cloud après la première phase d 39 étude vous développerez des use cases big data en production sur gcp rédaction des spécifications architecture fonctionnel technique sécurité développement complet ingestion traitement stockage dataviz mise en place de ci cd et bonnes pratiques devops recette interne vabf et le pilotage de la vsr avec le métier accompagnement bout en bout auprès des utilisateurs pour gérer le changement les projets à réaliser concerneront d 39 une part la migration des use cases on premise vers gcp et d 39 autre part le développement de nouveaux cas d 39 usage métier orientés performance réseau profil etudiant en informatique en 5ème ou 4ème année d 39 école d 39 ingénieur ou cursus universitaire avec une spécialisation en big data cloud ou intelligence artificielle vous souhaitez vous investir sur des projets innovants pratiquer du développement sur une plateforme bigdata et cloud stratégique au service de la qualité du réseau compétences techniques maitrise de python ou scala connaissance en big data apache spark hadoop traitement distribué connaissance sur gcp ou aws bigquery bigtable looker dataflow terraform compréhension des principes du cloud services managés scalabilité sécurité observabilité infrastructures devops ci cd qualités personnelles capacité à travailler en équipe et à communiquer efficacement et simplement passionné e par les nouvelles technologies du big data du cloud et de la data curiosité et aptitude à apprendre et comprendre autonomie et sens de l 39 organisation alors si tu te reconnais dans ce profil que tu recherches une entreprise qui donne sa chance aux étudiants ne cherche plus et postule",
+    "publication": "21/02/2026",
+    "lien": "https://www.welcometothejungle.com/fr/companies/altice-france/jobs/sfr-alternant-chef-de-projet-developpement-big-data-cloud-analytics-reseau-h-f_paris",
+    "id": "4fe52a88-f021-4b6c-8680-6e4339c181cd",
+    "description_nettoyee": "Rejoignez une équipe d'experts passionnés pour participer à la transformation cloud d'une plateforme big data stratégique. Vous contribuerez au développement de solutions pour la collecte, le traitement, le stockage et la visualisation de données techniques, essentielles pour piloter la performance des réseaux fixe et mobile.",
+    "mission": "Conception et étude d'un pilote à forte valeur métier pour accélérer la migration vers le cloud.\nDéveloppement de solutions cloud et de use cases big data en production sur GCP.",
+    "profil_recherche": "Étudiant en informatique en 4ème ou 5ème année d'école d'ingénieur ou cursus universitaire avec spécialisation en big data, cloud ou intelligence artificielle.\nPassionné par les nouvelles technologies du big data et du cloud.",
+    "competences": "Maîtrise de Python ou Scala, connaissance en big data (Apache Spark, Hadoop), et sur GCP ou AWS.",
+    "pole": "Direction ingénierie des outils exploitation réseau et accès mobile."
+  },
+  "cv_document": {
+    "candidat": {
+      "first_name": "ANISSA",
+      "langues": [
+        {
+          "langue": "Français",
+          "niveau": "Natif"
+        }
+      ],
+      "compétences": {
+        "skills_with_context": [
+          {
+            "skill": "SQL",
+            "context": "expérience, académique",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Python",
+            "context": "expérience, académique",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Power BI",
+            "context": "expérience, académique",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Looker",
+            "context": "expérience, académique",
+            "niveau_maitrise": "intermédiaire",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Power Query",
+            "context": "expérience",
+            "niveau_maitrise": "intermédiaire",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Toucan Toco",
+            "context": "expérience",
+            "niveau_maitrise": "intermédiaire",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Looker Studio",
+            "context": "expérience, académique",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Deepnote",
+            "context": "académique",
+            "niveau_maitrise": "intermédiaire",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Streamlit",
+            "context": "académique",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Machine Learning",
+            "context": "académique",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Prompt Engineer",
+            "context": "sans contexte",
+            "niveau_maitrise": "non évaluable",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Notion",
+            "context": "sans contexte",
+            "niveau_maitrise": "non évaluable",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Canva",
+            "context": "sans contexte",
+            "niveau_maitrise": "non évaluable",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Excel",
+            "context": "expérience",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Word",
+            "context": "expérience",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Google Analytics",
+            "context": "sans contexte",
+            "niveau_maitrise": "non évaluable",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "API",
+            "context": "académique",
+            "niveau_maitrise": "intermédiaire",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "SOQL",
+            "context": "expérience",
+            "niveau_maitrise": "intermédiaire",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Scrum",
+            "context": "académique",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Pandas",
+            "context": "académique",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Numpy",
+            "context": "académique",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Plotly",
+            "context": "académique",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Seaborn",
+            "context": "académique",
+            "niveau_maitrise": "intermédiaire",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "FastAPI",
+            "context": "académique",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Docker",
+            "context": "académique",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "GCP",
+            "context": "académique",
+            "niveau_maitrise": "intermédiaire",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "AWS",
+            "context": "académique",
+            "niveau_maitrise": "intermédiaire",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "MLOps",
+            "context": "académique",
+            "niveau_maitrise": "intermédiaire",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "DataOps",
+            "context": "académique",
+            "niveau_maitrise": "intermédiaire",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Cloud",
+            "context": "académique",
+            "niveau_maitrise": "intermédiaire",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "NoSQL",
+            "context": "académique",
+            "niveau_maitrise": "intermédiaire",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Web Scraping",
+            "context": "académique",
+            "niveau_maitrise": "intermédiaire",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Agentforce",
+            "context": "expérience",
+            "niveau_maitrise": "intermédiaire",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Hiboutik",
+            "context": "expérience",
+            "niveau_maitrise": "intermédiaire",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Google Sheets",
+            "context": "expérience",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "ISO 15189",
+            "context": "expérience",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Esprit d'équipe",
+            "context": "expérience",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Autonomie",
+            "context": "expérience",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Résilience",
+            "context": "expérience",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Conscience professionnelle",
+            "context": "expérience",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Organisation",
+            "context": "expérience",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          },
+          {
+            "skill": "Gestion de projet",
+            "context": "expérience, académique",
+            "niveau_maitrise": "avancé",
+            "a_valider_entretien": true
+          }
+        ]
+      },
+      "expériences": [
+        {
+          "Poste": "Data Analyste",
+          "Entreprise": "The Boost Society",
+          "start_date": "2024-09",
+          "end_date": "2025-12",
+          "responsabilités": [
+            "Création de rapports et tableaux de bord avec Salesforce, Power BI, Looker Studio et Toucan Toco",
+            "Extraction, nettoyage et exploitation de données en utilisant Python et SOQL",
+            "Réalisation d'audits",
+            "Chefferie de projet Data et IA (Agentforce)"
+          ]
+        },
+        {
+          "Poste": "Responsable de magasin IDF",
+          "Entreprise": "Mon Petit Herbier",
+          "start_date": "2022-11",
+          "end_date": "2023-11",
+          "responsabilités": [
+            "Analyse des données du réseau (3 magasins)",
+            "Extraction et optimisation des données clients via Hiboutik et Google Sheets",
+            "Création de tableaux de bord avec Google Sheets et Looker",
+            "Présentation des analyses à la direction pour le pilotage des activités commerciales",
+            "Interaction avec les directeurs et directrices des centres commerciaux Carmilla"
+          ]
+        },
+        {
+          "Poste": "Naturopathe Reflexologue",
+          "Entreprise": "Cabinet et entreprise (indépendante)",
+          "start_date": "2021-09",
+          "end_date": "2022-11",
+          "responsabilités": [
+            "Conseil en naturopathie",
+            "Pratique de massages et réflexologie, ainsi que création de protocoles",
+            "Gestion complète de l'entreprise (administratif, financier, marketing)",
+            "Animation et intervention en entreprise pour des événements professionnels (B2B: Total Énergie - QVCT 2022, Saint Maur Entreprise: soirée du dirigeant)"
+          ]
+        },
+        {
+          "Poste": "Assistante technique et scientifique",
+          "Entreprise": "ABBOTT France",
+          "start_date": "2016-06",
+          "end_date": "2021-04",
+          "responsabilités": [
+            "Dépannage des automates de laboratoire via l'analyse des indicateurs (pompe, capteurs, fluidique, électronique) pour les techniciens et ingénieurs",
+            "Analyse des contrôles de qualité",
+            "Support technique aux équipes de laboratoire",
+            "Amélioration des performances des automates en hématologie avant leur lancement mondial en analysant les données du marché français"
+          ]
+        },
+        {
+          "Poste": "Technicienne de laboratoire",
+          "Entreprise": "Hôpital FOCH",
+          "start_date": "2010-07",
+          "end_date": "2016-03",
+          "responsabilités": [
+            "Analyse et évaluation des marqueurs auto-immuns",
+            "Gestion de la qualité selon les normes ISO 15189",
+            "Formation des techniciens pour assurer des diagnostics médicaux précis et le suivi des patients"
+          ]
+        }
+      ],
+      "reconversion": {
+        "is_reconversion": true,
+        "analyse_chronologique": "1) Catégorisation des expériences : \n- 'Data Analyste' (09/2024–12/2025) → Pro (1 an 3 mois).\n- 'Responsable de magasin IDF' (11/2022–11/2023) → Pro (1 an).\n- 'Naturopathe Reflexologue' (09/2021–11/2022) → Pro (1 an 2 mois).\n- 'Assistante technique et scientifique' (06/2016–04/2021) → Pro (4 ans 10 mois).\n- 'Technicienne de laboratoire' (07/2010–03/2016) → Pro (5 ans 8 mois).\n\n2) Vérification des chevauchements avec les études : \n- Les expériences 'Pro' cumulées (10.5 ans) sont antérieures aux formations en Data & IA (2024–2025) et ne chevauchent pas les études supérieures.\n\n3) Calcul final de la durée Pro : \n- Durée totale des expériences 'Pro' : 10 ans et 6 mois (10.5 années).",
+        "duree_carriere_precedente_annees": 10.5,
+        "classification_reelle": "Reconversion",
+        "context": "Le candidat a exercé pendant 10.5 ans dans le domaine de la santé/laboratoire (Technicienne de laboratoire, Assistante technique et scientifique). Il a ensuite suivi une formation intensive en Data & IA (Data Analyst en 2024, Data & IA Engineer en 2024–2025) pour transiter vers un nouveau domaine. La durée cumulée des expériences 'Pro' dans son ancien domaine dépasse largement 3 ans, et la transition vers un nouveau domaine est clairement établie. Cela correspond strictement à une reconversion professionnelle.",
+        "date_reconversion": "2024-02"
+      },
+      "projets": [],
+      "formations": [
+        {
+          "degree": "Data & IA Engineer",
+          "institution": "Wild code School PARIS",
+          "start_date": "2024-09",
+          "end_date": "2025-12",
+          "niveau": "RNCP Niveau 7"
+        },
+        {
+          "degree": "Data Analyst",
+          "institution": "Wild code School PARIS",
+          "start_date": "2024-02",
+          "end_date": "2024-07",
+          "niveau": "RNCP Niveau 6"
+        }
+      ],
+      "etudiant": {
+        "is_etudiant": true,
+        "niveau_etudes": "bac+5",
+        "specialite": "Data & IA Engineer",
+        "latest_education_end_date": "2025-12-31"
+      },
+      "disponible": true,
+      "competences_transferables": [
+        {
+          "source": "Responsable de magasin IDF - Mon Petit Herbier (11/2022 - 11/2023)",
+          "competences_identifiees": [
+            {
+              "competence": "Analyse de données commerciales",
+              "niveau_certitude": "confirmé",
+              "applicabilite_tech": "élevée",
+              "note": "Extraction et optimisation des données clients via Hiboutik et Google Sheets, création de tableaux de bord avec Google Sheets et Looker pour le pilotage des activités commerciales. Ces compétences sont directement transférables à l'analyse de données structurées en Data/IA."
+            },
+            {
+              "competence": "Gestion de projet et présentation stratégique",
+              "niveau_certitude": "confirmé",
+              "applicabilite_tech": "élevée",
+              "note": "Présentation à la direction pour le pilotage des activités commerciales et interaction avec les directeurs des centres commerciaux Carmilla. Capacité à synthétiser des données complexes pour des décideurs, cruciale en Data/IA pour la communication des insights."
+            },
+            {
+              "competence": "Maîtrise des outils de visualisation",
+              "niveau_certitude": "confirmé",
+              "applicabilite_tech": "élevée",
+              "note": "Création de tableaux de bord avec Google Sheets et Looker Studio, outils similaires à Power BI ou Tableau utilisés en Data/IA. Expérience concrète en transformation de données brutes en visualisations actionnables."
+            }
+          ],
+          "a_creuser": true
+        },
+        {
+          "source": "Naturopathe Reflexologue - Cabinet et entreprise (indépendante) (09/2021 - 11/2022)",
+          "competences_identifiees": [
+            {
+              "competence": "Gestion d'entreprise et autonomie",
+              "niveau_certitude": "confirmé",
+              "applicabilite_tech": "moyenne",
+              "note": "Gestion complète d'un cabinet indépendant incluant comptabilité, marketing et relation client. Capacité à structurer un projet de A à Z, compétence transférable pour la gestion de projets Data ou le lancement d'une activité en freelance dans le domaine."
+            },
+            {
+              "competence": "Communication et pédagogie",
+              "niveau_certitude": "confirmé",
+              "applicabilite_tech": "élevée",
+              "note": "Conseil en naturopathie et animation d'événements professionnels (B2B) comme la soirée du dirigeant à Saint Maur Entreprise. Aptitude à vulgariser des concepts complexes pour différents publics, essentielle pour expliquer des modèles d'IA ou présenter des résultats Data."
+            },
+            {
+              "competence": "Analyse de besoins clients",
+              "niveau_certitude": "confirmé",
+              "applicabilite_tech": "élevée",
+              "note": "Pratique de massages et réflexologie avec création de protocoles personnalisés. Capacité à analyser des besoins individuels et proposer des solutions adaptées, transférable à l'analyse de données clients ou à la personnalisation de modèles d'IA."
+            }
+          ],
+          "a_creuser": true
+        },
+        {
+          "source": "Assistante technique et scientifique - ABBOTT France (06/2016 - 04/2021)",
+          "competences_identifiees": [
+            {
+              "competence": "Analyse de données techniques et résolution de problèmes",
+              "niveau_certitude": "confirmé",
+              "applicabilite_tech": "élevée",
+              "note": "Dépannage des automates de laboratoire via l'analyse des indicateurs (pompe, capteurs, fluidique, électronique) et amélioration des performances des automates en analysant les données du marché français. Compétences en diagnostic, analyse de données techniques et optimisation de processus, directement applicables à l'analyse de données industrielles ou à l'optimisation de modèles d'IA."
+            },
+            {
+              "competence": "Contrôle qualité et normes",
+              "niveau_certitude": "confirmé",
+              "applicabilite_tech": "moyenne",
+              "note": "Analyses des contrôles de qualité selon les normes ISO 15189 et gestion de la qualité. Compréhension des processus de validation et de standardisation, utile pour la mise en place de pipelines de données ou la validation de modèles d'IA."
+            },
+            {
+              "competence": "Support technique et formation",
+              "niveau_certitude": "confirmé",
+              "applicabilite_tech": "moyenne",
+              "note": "Support aux équipes de laboratoire et formation des techniciens. Capacité à expliquer des concepts techniques à des non-experts, transférable à la formation d'équipes sur des outils Data ou à la rédaction de documentation technique."
+            }
+          ],
+          "a_creuser": true
+        },
+        {
+          "source": "Technicienne de laboratoire - Hôpital FOCH (07/2010 - 03/2016)",
+          "competences_identifiees": [
+            {
+              "competence": "Analyse de données médicales et diagnostic",
+              "niveau_certitude": "confirmé",
+              "applicabilite_tech": "élevée",
+              "note": "Analyses et évaluation des marqueurs auto-immuns avec gestion de la qualité selon les normes ISO 15189. Expérience en interprétation de données complexes pour des diagnostics médicaux, transférable à l'analyse de données médicales en Data/IA ou à la détection d'anomalies dans des jeux de données."
+            },
+            {
+              "competence": "Gestion de la qualité et conformité",
+              "niveau_certitude": "confirmé",
+              "applicabilite_tech": "moyenne",
+              "note": "Respect des normes ISO 15189 pour la gestion de la qualité. Compréhension des enjeux de conformité et de traçabilité, utile pour la mise en place de processus de qualité dans des projets Data ou l'audit de modèles d'IA."
+            },
+            {
+              "competence": "Formation et transfert de compétences",
+              "niveau_certitude": "confirmé",
+              "applicabilite_tech": "moyenne",
+              "note": "Formation des techniciens pour assurer des diagnostics médicaux précis. Aptitude à structurer des formations et à transmettre des connaissances techniques, transférable à la formation d'équipes sur des outils ou méthodes Data."
+            }
+          ],
+          "a_creuser": true
+        }
+      ]
+    },
+    "recommandations": {
+      "header_analysis": {
+        "poste_vise": "Business Analyste",
+        "confiance": 90
+      },
+      "postes_recommandes": [
+        {
+          "metier_id": "data_analyst",
+          "nom": "Data Analyst",
+          "score_matching": 65,
+          "detail_scores": {
+            "competences_techniques": 70,
+            "outils_technologies": 80,
+            "experiences_projets": 60,
+            "methodologies": 50
+          },
+          "competences_matchees": [
+            "SQL (SOQL)",
+            "Python (extraction/nettoyage de données)",
+            "Power BI",
+            "Looker",
+            "Power Query",
+            "Excel",
+            "Google Sheets",
+            "Visualisation de données (tableaux de bord)",
+            "Extraction et nettoyage de données",
+            "Présentation de résultats à la direction",
+            "Audit",
+            "Gestion de projet"
+          ],
+          "competences_manquantes": [
+            "Maîtrise avancée de SQL (jointures complexes, optimisation)",
+            "Statistiques descriptives (moyenne, médiane, variance, corrélations)",
+            "Connaissance des data warehouses (BigQuery, Snowflake, Redshift)",
+            "Automatisation des rapports (scheduling, rafraîchissement)",
+            "Bonnes pratiques de requêtage (performance, lisibilité, documentation)",
+            "Notions de data lakes",
+            "Expérience avec des outils BI comme Tableau ou Qlik (au-delà de Power BI et Looker)",
+            "Machine Learning (aucune preuve d'application concrète)",
+            "Prompt Engineering (aucune preuve d'application concrète)"
+          ],
+          "justification": "Ton profil correspond bien au métier de Data Analyst grâce à tes expériences en analyse de données, création de tableaux de bord (Power BI, Looker, Google Sheets), et utilisation d'outils comme SQL (SOQL) et Python pour l'extraction et le nettoyage de données. Tes missions en tant que Data Analyste et Responsable de magasin ont impliqué des tâches typiques de ce métier : analyse de données, présentation à la direction, et gestion de projets. Cependant, tu n'as pas encore démontré de compétences avancées en statistiques, data warehouse, ou automatisation des rapports, qui sont importantes pour ce poste. Ton expérience en tant que Data Analyste est récente (2024-2025), ce qui te place dans un profil junior."
+        },
+        {
+          "metier_id": "analytics_engineer",
+          "nom": "Analytics Engineer",
+          "score_matching": 5,
+          "detail_scores": {
+            "competences_techniques": 5,
+            "outils_technologies": 10,
+            "experiences_projets": 5,
+            "methodologies": 5
+          },
+          "competences_matchees": [],
+          "competences_manquantes": [
+            "SQL avancé (window functions, optimisation)",
+            "Modélisation de données BI (étoile, snowflake, data vault)",
+            "Transformation ELT dans un data warehouse cloud",
+            "Utilisation avancée de dbt",
+            "Notions de performance des requêtes et des schémas dans DW cloud",
+            "Orchestration (Airflow, Dagster, Prefect)",
+            "Git et CI pour les projets analytics"
+          ],
+          "justification": "Ton profil ne correspond pas au métier d'Analytics Engineer, car il n'y a aucune mention de compétences en modélisation de données BI, dbt, ou transformation ELT dans un data warehouse cloud. Ces compétences sont centrales pour ce métier, et tu n'as pas d'expérience ou de projets dans ce domaine."
+        },
+        {
+          "metier_id": "data_scientist",
+          "nom": "Data Scientist",
+          "score_matching": 10,
+          "detail_scores": {
+            "competences_techniques": 10,
+            "outils_technologies": 20,
+            "experiences_projets": 5,
+            "methodologies": 5
+          },
+          "competences_matchees": [
+            "Python (basique)",
+            "SQL (SOQL)"
+          ],
+          "competences_manquantes": [
+            "Python avancé (pandas, numpy, scipy, scikit-learn, statsmodels)",
+            "Programmation orientée objet",
+            "Statistiques avancées (tests d'hypothèses, échantillonnage, méthodes bayésiennes)",
+            "Machine learning supervisé et non supervisé",
+            "Deep learning (CNN, RNN, transformers)",
+            "Traitement de données à grande échelle (Spark, PySpark)",
+            "Feature engineering et sélection de variables",
+            "Évaluation de modèles (cross-validation, métriques de classification/régression)",
+            "MLOps (suivi d'expériences, versioning de modèles)",
+            "Cloud data & AI (AWS, GCP, Azure)",
+            "LLMs et GenAI (APIs, RAG, prompt engineering)"
+          ],
+          "justification": "Ton profil ne correspond pas au métier de Data Scientist, car il n'y a aucune preuve de compétences en machine learning, statistiques avancées, ou deep learning. La mention de 'Machine Learning' et 'Prompt Engineer' dans tes outils n'est pas étayée par des projets ou expériences concrètes. Ce métier nécessite un niveau Bac+5 en data science ou équivalent, ce qui n'est pas visible dans ton parcours."
+        }
+      ],
+      "analyse_poste_vise": "Aucun poste visé n'est mentionné dans le CV, donc aucune analyse n'est possible.",
+      "qualite_cv": {
+        "score_global": 78,
+        "compatibilite_ats": {
+          "score": 85,
+          "details": "Format standard et mots-clés tech bien placés, mais manque de titres de sections clairs (ex: 'Expérience', 'Formation') pour une meilleure indexation."
+        },
+        "quantification_resultats": {
+          "score": 60,
+          "details": "Peu de métriques quantifiables dans les expériences, surtout en data.",
+          "metriques_suggerees": [
+            "Réduction de X% des temps de traitement grâce à l'automatisation (Python)",
+            "Amélioration de Y% de la précision des analyses clients (segmentation)",
+            "Création de Z tableaux de bord pour X utilisateurs (Power BI/Looker)"
+          ]
+        },
+        "structure_lisibilite": {
+          "score": 80,
+          "details": "Longueur proportionnée à l'expérience, mais certaines sections (ex: 'Naturopathe') manquent de pertinence pour le poste visé. Risque de remplissage perçu."
+        },
+        "preuves_competences": {
+          "score": 85,
+          "details": "Compétences tech bien listées et partiellement prouvées (ex: Python, SQL, Power BI). Améliorable : ajouter des liens vers des projets GitHub ou portfolio."
+        },
+        "mots_cles_repetes": [
+          {
+            "mot": "data",
+            "occurrence": 8
+          },
+          {
+            "mot": "analyse",
+            "occurrence": 5
+          },
+          {
+            "mot": "Python",
+            "occurrence": 4
+          }
+        ],
+        "note_orthographe_grammaire": "Aucune faute détectée, syntaxe claire.",
+        "avis_roni": {
+          "red_flags": [
+            "Expérience en naturopathie sans lien avec le poste visé (risque de dilution du message)",
+            "Absence de métriques dans les réalisations data (ex: impact des tableaux de bord créés)"
+          ],
+          "conseils_prioritaires": [
+            "Supprimer ou réduire la section 'Naturopathe' pour gagner en pertinence",
+            "Ajouter des chiffres concrets dans les expériences data (ex: 'Automatisation de 30 rapports mensuels')",
+            "Mettre en avant les projets GitHub/portfolio dans une section dédiée"
+          ]
+        },
+        "reco": {
+          "action_immediate": "Réécrire les puces des expériences data en incluant des métriques quantifiables (ex: 'Réduction de 20% du temps d'analyse grâce à un script Python')."
+        }
+      },
+      "entretien_guide": {}
+    }
+  },
+  "conversation": [
+    {
+      "role": "assistant",
+      "content": "Bonjour Anissa ! Je suis Roni, ravi de te rencontrer pour cet entretien d'entraînement. J'ai vu que tu es passionnée par les nouvelles technologies, notamment le big data et le cloud. Qu'est-ce qui t'a attirée vers ce domaine en particulier ?",
+      "name": "icebreaker"
+    },
+    {
+      "role": "user",
+      "content": "Bonjour Roni ! Je suis ravie de te rencontrer également. Ce qui m'attire dans le big data et le cloud, c'est la capacité de transformer des données complexes en insights significatifs qui peuvent réellement impacter les décisions stratégiques. J'aime l'idée de contribuer à des projets qui améliorent l'efficacité des opérations et qui exploitent la puissance des technologies pour résoudre des problèmes concrets."
+    },
+    {
+      "role": "assistant",
+      "content": "C'est une belle motivation, Anissa ! J'ai remarqué que tu as une formation en informatique, ce qui est très pertinent pour ce poste chez SFR. Peux-tu me parler d'un projet ou d'une expérience que tu as eue où tu as utilisé des technologies comme Python ou des outils big data ?",
+      "name": "icebreaker"
+    },
+    {
+      "role": "user",
+      "content": "Bien sûr, Roni ! Dans mon poste actuel de Data Analyste chez The Boost Society, j'utilise Python pour l'extraction, le nettoyage et l'analyse de données. J'ai également travaillé sur la création de tableaux de bord avec Power BI et Looker Studio, ce qui m'a permis de visualiser et de présenter des données de manière efficace. Cette expérience m'a donné une solide compréhension des enjeux liés à l'analyse de grandes quantités de données et à la prise de décision basée sur celles-ci."
+    },
+    {
+      "role": "assistant",
+      "content": "C'est super intéressant, Anissa ! Utiliser Python pour l'extraction et l'analyse de données est essentiel, surtout dans un contexte big data. As-tu déjà eu l'occasion de travailler avec des frameworks comme Apache Spark ou Hadoop, ou envisages-tu de te former à ces outils dans le cadre de ta préparation pour ce poste ?",
+      "name": "icebreaker"
+    },
+    {
+      "role": "user",
+      "content": "Je n'ai pas encore eu l'occasion de travailler directement avec Apache Spark ou Hadoop, mais je suis très motivée à me former sur ces technologies. Je suis actuellement en formation Data & IA Engineer, où j'apprends à utiliser divers outils big data et cloud. Je suis impatiente de mettre en pratique ces compétences et de découvrir comment ils peuvent optimiser le traitement et l'analyse des données dans un contexte professionnel."
+    },
+    {
+      "role": "assistant",
+      "content": "C'est excellent de voir cette motivation et cet engagement pour te former, Anissa ! La formation Data & IA Engineer doit te donner de bonnes bases. Peux-tu me donner un exemple d'une situation où tu as dû résoudre un problème technique en utilisant Python, et comment tu as abordé la situation ?",
+      "name": "auditeur"
+    },
+    {
+      "role": "user",
+      "content": "Bien sûr, Roni ! Dans mon rôle de Data Analyste, j'ai rencontré une situation où je devais nettoyer un ensemble de données contenant des valeurs manquantes et des doublons. J'ai utilisé Python avec des bibliothèques comme Pandas pour identifier ces anomalies. J'ai d'abord analysé les données pour comprendre l'étendue des problèmes, puis j'ai appliqué des techniques de nettoyage, comme la suppression des doublons et le remplissage des valeurs manquantes. Cette approche m'a permis de fournir des données fiables pour l'analyse, ce qui était crucial pour les décisions stratégiques de l'entreprise."
+    },
+    {
+      "role": "assistant",
+      "content": "C'est une excellente approche, Anissa, et utiliser Pandas pour le nettoyage des données est vraiment essentiel dans notre domaine. En parlant de décisions stratégiques, as-tu déjà eu l'occasion de collaborer avec des équipes interfonctionnelles lors de tes projets, et comment as-tu géré cette communication pour t'assurer que tout le monde était sur la même longueur d'onde ?",
+      "name": "auditeur"
+    },
+    {
+      "role": "user",
+      "content": "Oui, Roni, j'ai eu l'occasion de collaborer avec des équipes interfonctionnelles, notamment lors de mon expérience en tant que Responsable de magasin. Dans ce rôle, j'ai régulièrement présenté des analyses de données à la direction et interagi avec les directeurs des centres commerciaux. Pour assurer une communication efficace, je m'assurais de reformuler les données complexes en informations claires et accessibles, adaptées à chaque interlocuteur. Cela a permis de garantir que chacun comprenne les insights et leurs implications pour le pilotage des activités commerciales."
+    },
+    {
+      "role": "assistant",
+      "content": "C'est une excellente approche de rendre les données accessibles pour tous les interlocuteurs, Anissa ! Cela montre une vraie compréhension de l'importance de la communication dans l'analyse de données. Envisages-tu d'appliquer ces compétences en communication dans le cadre de projets big data et cloud chez SFR, et comment penses-tu que cela pourrait influencer l'adoption des solutions que tu développerais ?",
+      "name": "auditeur"
+    },
+    {
+      "role": "user",
+      "content": "Absolument, Roni ! Je pense que mes compétences en communication seront essentielles pour l'adoption des solutions big data et cloud chez SFR. En expliquant clairement les bénéfices des solutions que je développerai, je pourrai aider les utilisateurs à comprendre comment ces outils peuvent améliorer leur travail quotidien. Cela favorisera une meilleure acceptation et collaboration, ce qui est crucial pour la réussite des projets. Je suis convaincue qu'une communication efficace peut transformer des solutions techniques en véritables atouts pour les équipes."
+    },
+    {
+      "role": "assistant",
+      "content": "C'est une vision très pertinente, Anissa ! La capacité à traduire des solutions techniques en avantages concrets pour les utilisateurs est souvent un facteur clé de succès. As-tu déjà pensé à des méthodes spécifiques que tu pourrais utiliser pour faciliter cette communication ou des outils que tu aimerais intégrer dans tes projets pour renforcer cette approche ?",
+      "name": "enqueteur"
+    },
+    {
+      "role": "user",
+      "content": "Oui, Roni ! J'ai pensé à plusieurs méthodes pour faciliter cette communication. Par exemple, je pourrais utiliser des tableaux de bord interactifs créés avec des outils comme Power BI ou Looker pour visualiser les données de manière intuitive. En outre, je pourrais organiser des sessions de formation et des démonstrations pour présenter les fonctionnalités des solutions développées. Cela permettrait d'impliquer les utilisateurs dès le début et de recueillir leurs retours, ce qui est essentiel pour ajuster les outils à leurs besoins. Cette approche collaborative renforcerait l'adoption et l'appropriation des solutions."
+    },
+    {
+      "role": "assistant",
+      "content": "C'est une approche très stratégique, Anissa ! Utiliser des tableaux de bord interactifs et organiser des sessions de formation montre que tu es proactive dans l'implication des utilisateurs. Comment envisages-tu d'intégrer le retour d'expérience des utilisateurs dans le processus de développement des solutions cloud et big data, afin d'assurer qu'elles répondent réellement à leurs attentes ?",
+      "name": "enqueteur"
+    },
+    {
+      "role": "user",
+      "content": "Je prévois d'intégrer le retour d'expérience des utilisateurs dès les premières étapes du développement. Cela pourrait passer par des réunions régulières où les utilisateurs partagent leurs besoins et leurs préoccupations. Je pourrais également mettre en place des prototypes ou des maquettes fonctionnelles, permettant aux utilisateurs de tester les solutions avant leur déploiement final. En recueillant leurs feedbacks et en itérant sur les fonctionnalités, je m'assurerais que les solutions développées répondent vraiment à leurs attentes et améliorent leur expérience. Cette approche centrée sur l'utilisateur est cruciale pour garantir la pertinence des outils que nous créons."
+    },
+    {
+      "role": "assistant",
+      "content": "C'est une démarche vraiment réfléchie, Anissa ! Impliquer les utilisateurs dès le début et itérer selon leurs retours est essentiel pour créer des solutions efficaces. Maintenant, imagines que tu reçois un jeu de données inconnu et mal documenté, et on te demande d’en tirer une première analyse exploitable rapidement. Comment commencerais-tu cette tâche ?",
+      "name": "stratege"
+    },
+    {
+      "role": "user",
+      "content": "Dans ce cas, je commencerais par examiner rapidement les données pour comprendre leur structure et leur contenu. J'utiliserais Python avec des bibliothèques comme Pandas pour charger le jeu de données et effectuer une analyse préliminaire, en identifiant les types de variables, les valeurs manquantes et les anomalies. Ensuite, je ferais un premier nettoyage des données pour les rendre exploitables, avant d'effectuer des analyses descriptives pour dégager des tendances ou des insights initiaux. Cette approche me permettrait de fournir rapidement une première évaluation, tout en me préparant à approfondir l'analyse par la suite."
+    },
+    {
+      "role": "assistant",
+      "content": "C'est une excellente méthode pour aborder un jeu de données inconnu, Anissa ! Ta démarche d'analyse préliminaire et de nettoyage est très logique. Maintenant, imaginons que tu apprends qu'une partie des données est incomplète et peu fiable. Comment adapterais-tu ta démarche à ce stade pour continuer à tirer des insights exploitables ?",
+      "name": "stratege"
+    },
+    {
+      "role": "user",
+      "content": "Si je découvre qu'une partie des données est incomplète et peu fiable, je commencerais par évaluer l'impact de ces lacunes sur les analyses que je souhaite réaliser. Je pourrais explorer des méthodes de traitement des valeurs manquantes, comme l'imputation ou l'exclusion de certaines lignes, selon ce qui est le plus approprié. Ensuite, je mettrais en évidence ces limitations dans mes résultats et je m'assurerais de communiquer clairement les incertitudes aux parties prenantes. Enfin, je chercherais à compléter ou à valider ces données en croisant avec d'autres sources disponibles, si cela est possible, pour renforcer la fiabilité de l'analyse."
+    },
+    {
+      "role": "assistant",
+      "content": "C'est une approche très rigoureuse, Anissa ! Évaluer l'impact des données manquantes et communiquer les incertitudes est essentiel pour maintenir la transparence dans l'analyse. Envisages-tu également d'utiliser des techniques spécifiques pour valider les données, comme des méthodes statistiques ou des approches basées sur l'intelligence artificielle, afin d'améliorer la qualité des données avant l'analyse finale ?",
+      "name": "projecteur"
+    },
+    {
+      "role": "user",
+      "content": "Oui, Roni ! J'envisage d'utiliser des techniques statistiques, comme l'analyse de corrélation ou des tests d'hypothèses, pour valider la cohérence des données. En outre, je pourrais explorer des approches basées sur l'intelligence artificielle, telles que les modèles de machine learning, pour détecter des anomalies ou des incohérences dans les données. Ces méthodes permettrait non seulement d'améliorer la qualité des données avant l'analyse finale, mais aussi d’identifier des patterns cachés qui pourraient enrichir l'analyse et fournir des insights plus pertinents."
+    }
+  ],
+  "report": {
+    "dimensions": [
+      {
+        "dimension": "D1_profondeur_technique",
+        "score": 0,
+        "confiance": "moyenne",
+        "preuves": [
+          {
+            "type": "verbatim",
+            "extrait": "J'ai utilisé Python avec des bibliothèques comme Pandas pour identifier ces anomalies.",
+            "note": "",
+            "question_id": "auditeur_q0"
+          },
+          {
+            "type": "absence",
+            "extrait": "",
+            "note": "Justification du choix d'outils et limites non abordées.",
+            "question_id": "auditeur_q0"
+          },
+          {
+            "type": "absence",
+            "extrait": "",
+            "note": "Détails sur les décisions ou techniques spécifiques manquants.",
+            "question_id": "auditeur_q1"
+          },
+          {
+            "type": "absence",
+            "extrait": "",
+            "note": "Détails sur les solutions techniques ou choix manquants.",
+            "question_id": "auditeur_q2"
+          }
+        ]
+      },
+      {
+        "dimension": "D2_raisonnement",
+        "score": 2,
+        "confiance": "haute",
+        "preuves": [
+          {
+            "type": "verbatim",
+            "extrait": "J'utiliserais Python avec des bibliothèques comme Pandas pour charger le jeu de données et effectuer une analyse préliminaire, en identifiant les types de variables, les valeurs manquantes et les anomalies.",
+            "note": "",
+            "question_id": "stratege_q0"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "Je commencerais par évaluer l'impact de ces lacunes sur les analyses que je souhaite réaliser.",
+            "note": "",
+            "question_id": "stratege_q1"
+          }
+        ]
+      },
+      {
+        "dimension": "D3_trajectoire",
+        "score": 0,
+        "confiance": "haute",
+        "preuves": [
+          {
+            "type": "verbatim",
+            "extrait": "la capacité de transformer des données complexes en insights significatifs",
+            "note": "",
+            "question_id": "icebreaker_q0"
+          },
+          {
+            "type": "absence",
+            "extrait": "",
+            "note": "Pas d'éléments sur sa façon d'apprendre.",
+            "question_id": "icebreaker_q0"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "j'utilise Python pour l'extraction, le nettoyage et l'analyse de données",
+            "note": "",
+            "question_id": "icebreaker_q1"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "je suis très motivée à me former sur ces technologies",
+            "note": "",
+            "question_id": "icebreaker_q2"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "J'envisage d'utiliser des techniques statistiques, comme l'analyse de corrélation ou des tests d'hypothèses, pour valider la cohérence des données.",
+            "note": "",
+            "question_id": "projecteur_q0"
+          },
+          {
+            "type": "absence",
+            "extrait": "",
+            "note": "Pas d'auto-formation documentée, pas d'apprentissage d'échecs, pas de projets de difficulté croissante.",
+            "question_id": "projecteur_q0"
+          }
+        ]
+      },
+      {
+        "dimension": "D4_transferable",
+        "score": 2,
+        "confiance": "haute",
+        "preuves": [
+          {
+            "type": "verbatim",
+            "extrait": "je pourrais utiliser des tableaux de bord interactifs créés avec des outils comme Power BI ou Looker pour visualiser les données de manière intuitive",
+            "note": "",
+            "question_id": "enqueteur_q0"
+          },
+          {
+            "type": "absence",
+            "extrait": "",
+            "note": "Exemple chiffré ou impact mesurable.",
+            "question_id": "enqueteur_q0"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "Je prévois d'intégrer le retour d'expérience des utilisateurs dès les premières étapes du développement.",
+            "note": "",
+            "question_id": "enqueteur_q1"
+          },
+          {
+            "type": "absence",
+            "extrait": "",
+            "note": "Exemple chiffré ou impact mesurable.",
+            "question_id": "enqueteur_q1"
+          }
+        ]
+      },
+      {
+        "dimension": "D5_communication",
+        "score": 3,
+        "confiance": "haute",
+        "preuves": [
+          {
+            "type": "verbatim",
+            "extrait": "J'aime l'idée de contribuer à des projets qui améliorent l'efficacité des opérations",
+            "note": "",
+            "question_id": "icebreaker_q0"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "J'ai également travaillé sur la création de tableaux de bord avec Power BI et Looker Studio",
+            "note": "",
+            "question_id": "icebreaker_q1"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "je suis impatiente de mettre en pratique ces compétences",
+            "note": "",
+            "question_id": "icebreaker_q2"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "J'ai d'abord analysé les données pour comprendre l'étendue des problèmes, puis j'ai appliqué des techniques de nettoyage.",
+            "note": "",
+            "question_id": "auditeur_q0"
+          },
+          {
+            "type": "absence",
+            "extrait": "",
+            "note": "Exemple illustratif manquant.",
+            "question_id": "auditeur_q0"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "je m'assurais de reformuler les données complexes en informations claires et accessibles",
+            "note": "",
+            "question_id": "auditeur_q1"
+          },
+          {
+            "type": "absence",
+            "extrait": "",
+            "note": "Exemple illustratif manquant.",
+            "question_id": "auditeur_q1"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "En expliquant clairement les bénéfices des solutions que je développerai, je pourrai aider les utilisateurs à comprendre",
+            "note": "",
+            "question_id": "auditeur_q2"
+          },
+          {
+            "type": "absence",
+            "extrait": "",
+            "note": "Exemple illustratif manquant.",
+            "question_id": "auditeur_q2"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "Cela permettrait d'impliquer les utilisateurs dès le début et de recueillir leurs retours",
+            "note": "",
+            "question_id": "enqueteur_q0"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "Je pourrais également mettre en place des prototypes ou des maquettes fonctionnelles, permettant aux utilisateurs de tester les solutions avant leur déploiement final.",
+            "note": "",
+            "question_id": "enqueteur_q1"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "Cette approche me permettrait de fournir rapidement une première évaluation, tout en me préparant à approfondir l'analyse par la suite.",
+            "note": "",
+            "question_id": "stratege_q0"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "je mettrais en évidence ces limitations dans mes résultats et je m'assurerais de communiquer clairement les incertitudes aux parties prenantes.",
+            "note": "",
+            "question_id": "stratege_q1"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "Ces méthodes permettraient non seulement d'améliorer la qualité des données avant l'analyse finale, mais aussi d’identifier des patterns cachés qui pourraient enrichir l'analyse et fournir des insights plus pertinents.",
+            "note": "",
+            "question_id": "projecteur_q0"
+          }
+        ]
+      },
+      {
+        "dimension": "D6_fiabilite",
+        "score": 1,
+        "confiance": "haute",
+        "preuves": [
+          {
+            "type": "verbatim",
+            "extrait": "la capacité de transformer des données complexes en insights significatifs",
+            "note": "",
+            "question_id": "icebreaker_q0"
+          },
+          {
+            "type": "absence",
+            "extrait": "",
+            "note": "Pas d'éléments sur la cohérence ou la lucidité.",
+            "question_id": "icebreaker_q0"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "j'utilise Python pour l'extraction, le nettoyage et l'analyse de données",
+            "note": "",
+            "question_id": "icebreaker_q1"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "Je n'ai pas encore eu l'occasion de travailler directement avec Apache Spark ou Hadoop",
+            "note": "",
+            "question_id": "icebreaker_q2"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "Cette approche m'a permis de fournir des données fiables pour l'analyse.",
+            "note": "",
+            "question_id": "auditeur_q0"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "j'ai régulièrement présenté des analyses de données à la direction",
+            "note": "",
+            "question_id": "auditeur_q1"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "je suis convaincue qu'une communication efficace peut transformer des solutions techniques en véritables atouts",
+            "note": "",
+            "question_id": "auditeur_q2"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "Cette approche collaborative renforcerait l'adoption et l'appropriation des solutions.",
+            "note": "",
+            "question_id": "enqueteur_q0"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "Cette approche centrée sur l'utilisateur est cruciale pour garantir la pertinence des outils que nous créons.",
+            "note": "",
+            "question_id": "enqueteur_q1"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "je mettrais en évidence ces limitations dans mes résultats",
+            "note": "",
+            "question_id": "stratege_q1"
+          },
+          {
+            "type": "verbatim",
+            "extrait": "En outre, je pourrais explorer des approches basées sur l'intelligence artificielle, telles que les modèles de machine learning, pour détecter des anomalies ou des incohérences dans les données.",
+            "note": "",
+            "question_id": "projecteur_q0"
+          },
+          {
+            "type": "absence",
+            "extrait": "",
+            "note": "Pas d'honnêteté intellectuelle ou de lucidité sur soi.",
+            "question_id": "projecteur_q0"
+          }
+        ]
+      }
+    ],
+    "adequation": {
+      "couvert": [],
+      "a_developper": [],
+      "compense_par": [],
+      "non_couvert": [
+        {
+          "competence": "Maîtrise de Python ou Scala",
+          "statut": "non_couvert",
+          "justification": "Non démontrée sur le CV ni en entretien — à explorer (non éliminatoire)."
+        },
+        {
+          "competence": "connaissance en big data (Apache Spark",
+          "statut": "non_couvert",
+          "justification": "Non démontrée sur le CV ni en entretien — à explorer (non éliminatoire)."
+        },
+        {
+          "competence": "Hadoop)",
+          "statut": "non_couvert",
+          "justification": "Non démontrée sur le CV ni en entretien — à explorer (non éliminatoire)."
+        },
+        {
+          "competence": "et sur GCP ou AWS",
+          "statut": "non_couvert",
+          "justification": "Non démontrée sur le CV ni en entretien — à explorer (non éliminatoire)."
+        }
+      ]
+    },
+    "positionnement": {
+      "profil_resume": "Profil, orienté Chef De Projet Développement Big Data & Cloud, D1=0/5 (moyenne), D2=2/5, D3=0/5.",
+      "pret_pour": [
+        "Chef De Projet Développement Big Data & Cloud junior"
+      ],
+      "pas_encore_pour": [
+        "Chef De Projet Développement Big Data & Cloud (senior)"
+      ],
+      "conditions_de_reussite": "montée en compétence sur : Maîtrise de Python ou Scala, connaissance en big data (Apache Spark, Hadoop)"
+    },
+    "forces": [
+      {
+        "libelle": "Communication technique",
+        "justification": "Communication technique : 3/5 (confiance haute). Ex. : « J'aime l'idée de contribuer à des projets qui améliorent l'efficacité des opérations »",
+        "dimension": "D5_communication"
+      }
+    ],
+    "faiblesses": [
+      {
+        "libelle": "Profondeur technique",
+        "justification": "Profondeur technique : 0/5. Justification du choix d'outils et limites non abordées.",
+        "dimension": "D1_profondeur_technique"
+      },
+      {
+        "libelle": "Trajectoire d'apprentissage",
+        "justification": "Trajectoire d'apprentissage : 0/5. Pas d'éléments sur sa façon d'apprendre.",
+        "dimension": "D3_trajectoire"
+      },
+      {
+        "libelle": "Fiabilité professionnelle",
+        "justification": "Fiabilité professionnelle : 1/5. Pas d'éléments sur la cohérence ou la lucidité.",
+        "dimension": "D6_fiabilite"
+      }
+    ],
+    "argument_demo": "",
+    "integrite": {
+      "suspicion_score": 0,
+      "flags": [],
+      "raisons": [],
+      "metrics": {
+        "burstiness": 0.439,
+        "lexical_diversity": 0.405,
+        "readability": 39.3
+      },
+      "note": "Indicatif, non bloquant. Un score élevé abaisse la confiance, il ne constitue pas une accusation."
+    },
+    "feedback_candidat": "Salut Anissa,\n\nTout d'abord, je tiens à souligner ta force en communication technique. Tu as su exprimer ton envie de contribuer à des projets qui améliorent l'efficacité des opérations, ce qui est vraiment positif !\n\nPour progresser, voici quelques axes à travailler :\n\n1. **Profondeur technique** : Quand je t'ai demandé de justifier tes choix d'outils, tu n'as pas abordé leurs limites. Pour t'améliorer, essaie de préparer des exemples concrets où tu expliques pourquoi tu as choisi un outil et ce qui pourrait ne pas fonctionner.\n\n2. **Trajectoire d'apprentissage** : Lors de notre échange, tu n'as pas partagé d'éléments sur ta façon d'apprendre. Je te conseille de réfléchir à des méthodes que tu utilises pour te former, comme des livres ou des cours en ligne, et de les intégrer dans tes réponses futures.\n\n3. **Fiabilité professionnelle** : Tu n'as pas donné d'éléments sur ta cohérence ou ta lucidité. Pour progresser, pense à des situations où tu as dû faire preuve de rigueur ou de prise de décision, et prépare-toi à les partager.\n\nContinue sur cette belle lancée, tu es sur la bonne voie !",
+    "radar_candidat": {
+      "Profondeur technique": 0,
+      "Résolution de problème": 2,
+      "Capacité d'apprentissage": 0,
+      "Compétences transférables": 2,
+      "Clarté de communication": 3
+    },
+    "validations_skills": []
+  }
+}

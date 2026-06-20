@@ -1,0 +1,17 @@
+# --- Cœur API + données ---
+fastapi
+uvicorn[standard]
+pydantic>=2
+python-dotenv
+slowapi
+
+# --- LLM / graph ---
+langchain-openai
+langgraph
+
+# --- Anti-triche & détection générique (local, 0 token LLM) ---
+sentence-transformers
+textstat
+
+# --- Tests ---
+pytest
